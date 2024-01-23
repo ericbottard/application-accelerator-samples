@@ -102,6 +102,7 @@ accelerator:
       struct:
         - name: title
           dataType: string
+          required: true
           label: Title
           description: A sample title
         - name: details
